@@ -1,0 +1,17 @@
+{
+    "name": "@revenge-mod/vendetta-types",
+    "description": "Official types for Vendetta",
+    "author": "redstonekasi",
+    "license": "BSD-3-Clause",
+    "version": "2.4.21",
+    "types": "def.d.ts",
+    "dependencies": {
+        "@types/chroma-js": "^2.4.0",
+        "@types/lodash": "^4.14.191",
+        "@types/react": "18.0.26",
+        "@types/react-native": "0.68.1",
+        "@react-native-clipboard/clipboard": "1.10.0",
+        "moment": "2.22.2",
+        "spitroast": "^1.4.2"
+    }
+}
