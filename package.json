@@ -1,6 +1,6 @@
 {
     "name": "@revenge-mod/vendetta-types",
-    "description": "Official types for Vendetta",
+    "description": "Official types for Vendetta plugins running on Revenge",
     "author": "redstonekasi",
     "license": "BSD-3-Clause",
     "version": "2.4.21",
