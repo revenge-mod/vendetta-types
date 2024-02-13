@@ -87,7 +87,11 @@ declare module "@vendetta/constants" {
     export const PLUGINS_CHANNEL_ID: string;
     export const THEMES_CHANNEL_ID: string;
     export const GITHUB: string;
+    /**
+     * @deprecated Unless you want to maintain compatibility, please use `PROXY_PREFIXES` instead.
+     */
     export const PROXY_PREFIX: string;
+    export const PROXY_PREFIXES: string[];
     export const HTTP_REGEX: RegExp;
     export const HTTP_REGEX_MULTI: RegExp;
 
