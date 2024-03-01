@@ -94,6 +94,7 @@ declare module "@vendetta/constants" {
     export const PROXY_PREFIXES: string[];
     export const HTTP_REGEX: RegExp;
     export const HTTP_REGEX_MULTI: RegExp;
+    export const ESCAPE_REGEX: RegExp;
 
     export * as default from "@vendetta/constants";
 }
